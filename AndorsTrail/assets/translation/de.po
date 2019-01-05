@@ -38530,7 +38530,7 @@ msgstr ""
 
 #: questlist_guynmart.json:guynmart_wise:20
 msgid "I brought him bread, cheese and wine. He is very happy."
-msgstr ""
+msgstr "Ich brachte ihm Brot, Käse und Wein. Er ist sehr glücklich."
 
 #: questlist_guynmart.json:guynmart_wise:30
 msgid ""
@@ -38540,7 +38540,7 @@ msgstr ""
 
 #: questlist_guynmart.json:guynmart_wise:90
 msgid "I got bread, cheddar and wine for him. He started feasting happily."
-msgstr ""
+msgstr "Ich bekam Brot, Cheddarkäse und Wein für ihn. Er begann freudig die Schlemmerei."
 
 #: questlist_stoutford_combined.json:roots_love
 msgid "The roots of love"
@@ -38779,7 +38779,7 @@ msgstr ""
 
 #: questlist_stoutford_combined.json:stn_quest_gyra
 msgid "Lost girl looking for lost things"
-msgstr ""
+msgstr "Ein einsames Mädchen, das nach verlorenen Dingen sucht"
 
 #: questlist_stoutford_combined.json:stn_quest_gyra:10
 msgid "The little daughter of Odirath the armorer has been missing for several days now. You offered to help search for her."
